@@ -5,7 +5,7 @@ O **Cinetag** é uma plataforma que permite que os usuários assistam aos vídeo
  
 
 #### Acesse a página web:
-Você pode conferir o projeto funcionando clicando [aqui ](https://space-app-fawn.vercel.app/) para acessar a versão online da aplicação.
+Você pode conferir o projeto funcionando clicando [aqui ](https://cine-tag-tawny.vercel.app/) para acessar a versão online da aplicação.
 
 ![image](https://github.com/user-attachments/assets/a8bde1b7-d345-45b5-b6ef-6ad1410e1108)
 ![image](https://github.com/user-attachments/assets/6a56ede8-0324-4855-93b3-8eb49ebb52c2)
